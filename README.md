@@ -20,7 +20,7 @@ Dikembangkan oleh **Cibetivist – Garuda Cyber Team**.
 
 ### Android (Termux)
 
-pkg update && pkg install python git git clone https://github.com/username/IP_TracerX cd IP_TracerX pip install -r requirements.txt python ip_tracerx.py
+pkg update && pkg install python git git clone https://github.com/cibedawgs/IP_TracerX cd IP_TracerX pip install -r requirements.txt python ip_tracerx.py
 
 ### Windows / Linux / MacOS
 
